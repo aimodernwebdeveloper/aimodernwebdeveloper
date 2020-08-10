@@ -1,3 +1,3 @@
-# https://aimodernwebdeveloper.github.io/site/index.html
+# https://aimodernwebdeveloper.github.io/aimodernwebdeveloper/
 
 
